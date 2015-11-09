@@ -1,0 +1,20 @@
+Network Architecture
+There are several ways in which a computer network can be designed. Network architecture refers to how computers are organized in a system and how tasks are allocated between these computers. Two of the most widely used types of network architecture are peer-to-peer and client/server. Client/server architecture is also called 'tiered' because it uses multiple levels. This lesson will discuss each of these two types in more detail.
+
+Peer-to-Peer
+In a peer-to-peer or P2P network, the tasks are allocated among all the members of the network. There is no real hierarchy among the computers, and all of them are considered equal. This is also referred to as a distributed architecture or workgroup without hierarchy. A peer-to-peer network does not use a central computer server that controls network activity. Instead, every computer on the network has a special software running that allows for communications between all the computers.
+
+Peer-to-peer is mostly used for file sharing. Here is how file sharing works: One computer user makes some of the files on the hard disk drive available for sharing. Information on these files is made available to the rest of the users so they can decide if they want to download one or more of these files. Once a second user has downloaded a file, this can also be made available to the rest of the users. So now there are two possible sources from which to download the same file. This is how files can be spread over thousands of users, one download at time.
+
+One of the earliest peer-to-peer file sharing networks was Napster. One of the more recent protocols for sharing files is BitTorrent. This protocol is used by the many users who provide links to their files on websites, such as The Pirate Bay.
+
+A peer-to-peer network is robust in the sense that if one or several of the individual computers stop working for some reason, the network continues to function. On the other hand, the quality of the network depends completely on the contribution of individual participants. For example, in the case of file sharing, if very few people make their files available, there is very little for users to download.
+
+While there are a number of different applications of peer-to-peer network architecture, file sharing is by far the most popular. This also includes file sharing networks that distribute copyrighted material, such as movies, music and books, without permission. This is against the law in most jurisdictions. Since peer-to-peer networks lack a central control system, such file sharing systems present a serious challenge to agencies trying to prevent this type of sharing.
+
+Client/Server
+In a client/server network, a number of network clients or workstations request resources or services from the network. One or more network servers manage and provide these resources or services. The clients are computers that depend on the server for data and software. Network servers are also referred to as computer servers or simply servers. Sometimes a server is described in terms of the specific service it provides, such as e-mail server, print server or storage server. Some servers, however, can provide all these services.
+
+Servers are typically computers with more processing speed, memory and hard disk space than a regular desktop computer. The network servers run their own operating system that manages the various network tasks as well as services that run on the network. Depending on the need for network storage and services, a single network may only use one or a large number of servers.
+
+Clients are hardware devices which provide end users with access to data and services on the server. You can use these devices more or less independently. For example, you can open up software applications, create and edit documents and save files on the local storage medium, such as a hard disk. However, in a typical client/server network, a number of essential tasks are not performed by the client alone. Some typical examples are:
